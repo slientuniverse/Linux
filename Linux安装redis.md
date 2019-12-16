@@ -2,7 +2,9 @@
 
 # Linux安装redis
 
-> redis现在是必不可少的数据库，很多场景都能用到，所以
+> redis现在是必不可少的数据库，很多场景都能用到
+
+[本文csdn连接](https://blog.csdn.net/sinat_32602455/article/details/94004325)
 
 
 

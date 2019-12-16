@@ -2,6 +2,8 @@
 
 > springboot上使用MongoTemplate和MongoRepository这两种方式来操作mongodb
 
+[本文csdn连接](https://blog.csdn.net/sinat_32602455/article/details/103564927)
+
 
 
 # 一.Spring boot 使用MongoTemplate

@@ -2,6 +2,8 @@
 
 > 家里电脑上的虚拟机都重新安装了，开始重新安装mysql
 
+[本文csdn连接](https://blog.csdn.net/sinat_32602455/article/details/103554241)
+
 
 
 # Linux安装mysql

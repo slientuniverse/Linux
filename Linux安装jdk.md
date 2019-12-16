@@ -2,7 +2,7 @@
 
 # Linux安装jdk
 
-
+[本文csdn连接](https://blog.csdn.net/sinat_32602455/article/details/93884099)
 
 ## 1.官网下载jdk1.8
 
